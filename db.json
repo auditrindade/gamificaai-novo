@@ -1,20 +1,56 @@
 {
-    "cases": [
-        {
-            "imagem": "https://unsplash.it/600/400?image=14",
-            "descricao": "Uma empresa de tecnologia lança um desafio de gamificação onde os funcionarios devem propor e implementar ideias inovadoras."
-        },
-        {
-            "imagem": "https://unsplash.it/600/400?image=41",
-            "descricao": "Uma empresa de consultoria cria uma narrativa interativa de gamificação para seu programa de treinamento."
-        },
-        {
-            "imagem": "https://unsplash.it/600/400?image=23",
-            "descricao": "Uma empresa de vendas implementa uma competição gamificada entre equipes que competem pelo topo do ranking."
-        },
-        {
-            "imagem": "https://unsplash.it/600/400?image=62",
-            "descricao": "Uma empresa de saúde promove o bem-estar dos funcionários através de um desafio de gamificação de condicionamento físico."
-        }
-    ]
+  "cases": [
+    {
+      "imagem": "https://unsplash.it/600/400?image=14",
+      "descricao": "Uma empresa de tecnologia lança um desafio de gamificação onde os funcionarios devem propor e implementar ideias inovadoras.",
+      "id": "68e6"
+    },
+    {
+      "imagem": "https://unsplash.it/600/400?image=41",
+      "descricao": "Uma empresa de consultoria cria uma narrativa interativa de gamificação para seu programa de treinamento.",
+      "id": "b307"
+    },
+    {
+      "imagem": "https://unsplash.it/600/400?image=23",
+      "descricao": "Uma empresa de vendas implementa uma competição gamificada entre equipes que competem pelo topo do ranking.",
+      "id": "fc69"
+    },
+    {
+      "imagem": "https://unsplash.it/600/400?image=62",
+      "descricao": "Uma empresa de saúde promove o bem-estar dos funcionários através de um desafio de gamificação de condicionamento físico.",
+      "id": "fc61"
+    }
+  ],
+  "solicitacoes": [
+    {
+      "id": "8de8",
+      "nome": "Eduardo",
+      "email": "eduardo@gmail.com",
+      "descricao": "sem problemas"
+    },
+    {
+      "id": "bad5",
+      "nome": "Eduardo",
+      "email": "eduardo@gmail.com",
+      "descricao": "sem problemas"
+    },
+    {
+      "id": "ed23",
+      "nome": "Eduardo A",
+      "email": "audi@gmail.com",
+      "descricao": "oba"
+    },
+    {
+      "id": "42d3",
+      "nome": "eduardo",
+      "email": "eduardo@gmail.com",
+      "descricao": "agora sim."
+    },
+    {
+      "id": "4b2b",
+      "nome": "edu",
+      "email": "edu@gmail.com",
+      "descricao": "tentando novamentte"
+    }
+  ]
 }
